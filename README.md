@@ -9,7 +9,8 @@ then Run the code. Else you will get compilation Error.
   <img src="Picture/Digital Clock.PNG" align="Left" height="400px"> 
   <br><br><br><br><br><br><br><br>  <br><br><br><br><br><br><br><br>
   <h2 style="margin-top:600px" align="left"> 2.Analog Clock </h2>
+  <p><i> when you run the program... your clock will look like this.</i> </p>
   
-  <br><br>
+  <br>
   <img src="Picture/analog_clock.png" align="Left" height="400px">
 

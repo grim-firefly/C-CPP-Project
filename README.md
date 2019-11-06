@@ -13,4 +13,11 @@ then Run the code. Else you will get compilation Error.
   
   <br>
   <img src="Picture/analog_clock.png" align="Left" height="400px">
-
+    <br><br><br><br><br><br><br><br>  <br><br><br><br><br><br><br><br>
+    <h2> 3.Propose Girls </h2>
+    <br>
+    <p> Here a man will walk and propose a girl </p>
+  <img src="Picture/propose-1.png" align="Left" height="400px">
+    <br><br><br><br><br><br><br><br>  <br><br><br><br><br><br><br><br>
+  <img src="Picture/propose-2.png" align="Left" height="400px">
+    
